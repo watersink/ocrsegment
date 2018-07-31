@@ -21,8 +21,8 @@ python3
 ![image]( ./lines/0.png)
 
 ## references
-Multi-Dimensional Recurrent Neural Networks(https://arxiv.org/abs/0705.2011)
-Robust_ Simple Page Segmentation Using Hybrid Convolutional MDLSTM Networks(https://github.com/wanghaisheng/awesome-ocr/files/2042377/Robust_.Simple.Page.Segmentation.Using.Hybrid.Convolutional.MDLSTM.Networks.pdf)
+[Multi-Dimensional Recurrent Neural Networks](https://arxiv.org/abs/0705.2011)
+[Robust_ Simple Page Segmentation Using Hybrid Convolutional MDLSTM Networks](https://github.com/wanghaisheng/awesome-ocr/files/2042377/Robust_.Simple.Page.Segmentation.Using.Hybrid.Convolutional.MDLSTM.Networks.pdf)
 [https://github.com/NVlabs/ocroseg](https://github.com/NVlabs/ocroseg)
 [https://github.com/philipperemy/tensorflow-multi-dimensional-lstm](https://github.com/philipperemy/tensorflow-multi-dimensional-lstm)
 
