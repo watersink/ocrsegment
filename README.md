@@ -16,9 +16,9 @@ python3
     python3 train_test.py
 ## test
     python3 segmentation.py
-![image]( ./make_training_labels/W001.png)
-![image]( ./make_training_labels/out.png)
-![image]( ./lines/0.png)
+![image]( https://github.com/watersink/ocrsegment/blob/master/make_training_labels/W001.png)
+![image]( https://github.com/watersink/ocrsegment/blob/master/make_training_labels/out.png)
+![image]( https://github.com/watersink/ocrsegment/blob/master/lines/0.png)
 
 ## references
 [Multi-Dimensional Recurrent Neural Networks](https://arxiv.org/abs/0705.2011)<br>
